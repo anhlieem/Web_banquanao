@@ -355,7 +355,7 @@ li{
     color: red;
     font-size: 1.3rem;
     /* position: absolute; */
-    
+   
 }
 /* ************ */
 .form-atm {
@@ -393,7 +393,7 @@ li{
 }
 #card-name{
     margin-left:-50px; 
-    width:100%;
+    width:95%;
 }
 #card-date{
     margin-left:-50px; 
